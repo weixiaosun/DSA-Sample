@@ -1,0 +1,3 @@
+/Users/huyanh/Documents/ics 46/q6helper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/huyanh/Documents/ics 46/q6helper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/huyanh/Documents/ics 46/q6helper/cmake-build-debug/CMakeFiles/quiz6.dir

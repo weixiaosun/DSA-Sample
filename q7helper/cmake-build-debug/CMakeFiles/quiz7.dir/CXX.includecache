@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../courselib/ics46goody.hpp
+string
+-
+iostream
+-
+sstream
+-
+limits
+-
+vector
+-
+cstdlib
+-
+
+../../courselib/ics_exceptions.hpp
+string
+-
+stdexcept
+-
+
+../../courselib/pair.hpp
+iostream
+-
+
+../../courselib/stopwatch.hpp
+ctime
+-
+
+/Users/huyanh/Documents/ics 46/q7helper/driver_equivalence.cpp
+
+/Users/huyanh/Documents/ics 46/q7helper/empirical_equivalence.cpp
+string
+-
+iostream
+-
+fstream
+-
+ics46goody.hpp
+/Users/huyanh/Documents/ics 46/q7helper/ics46goody.hpp
+stopwatch.hpp
+/Users/huyanh/Documents/ics 46/q7helper/stopwatch.hpp
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/q7helper/ics_exceptions.hpp
+string
+-
+random
+-
+hash_equivalence.hpp
+/Users/huyanh/Documents/ics 46/q7helper/hash_equivalence.hpp
+
+/Users/huyanh/Documents/ics 46/q7helper/hash_equivalence.hpp
+sstream
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/q7helper/ics_exceptions.hpp
+hash_map.hpp
+/Users/huyanh/Documents/ics 46/q7helper/hash_map.hpp
+hash_set.hpp
+/Users/huyanh/Documents/ics 46/q7helper/hash_set.hpp
+
+/Users/huyanh/Documents/ics 46/q7helper/hash_map.hpp
+string
+-
+iostream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/q7helper/ics_exceptions.hpp
+pair.hpp
+/Users/huyanh/Documents/ics 46/q7helper/pair.hpp
+
+/Users/huyanh/Documents/ics 46/q7helper/hash_set.hpp
+string
+-
+iostream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/q7helper/ics_exceptions.hpp
+pair.hpp
+/Users/huyanh/Documents/ics 46/q7helper/pair.hpp
+

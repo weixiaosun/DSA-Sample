@@ -1,0 +1,160 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../courselib/array_queue.hpp
+string
+-
+iostream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+../../courselib/ics_exceptions.hpp
+
+../../courselib/array_stack.hpp
+string
+-
+iostream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+../../courselib/ics_exceptions.hpp
+
+../../courselib/ics46goody.hpp
+string
+-
+iostream
+-
+sstream
+-
+limits
+-
+vector
+-
+cstdlib
+-
+
+../../courselib/ics_exceptions.hpp
+string
+-
+stdexcept
+-
+
+../../courselib/pair.hpp
+iostream
+-
+
+/Users/huyanh/Documents/ics 46/program5/dijkstra.cpp
+string
+-
+iostream
+-
+fstream
+-
+ics46goody.hpp
+/Users/huyanh/Documents/ics 46/program5/ics46goody.hpp
+array_queue.hpp
+/Users/huyanh/Documents/ics 46/program5/array_queue.hpp
+hash_graph.hpp
+/Users/huyanh/Documents/ics 46/program5/hash_graph.hpp
+dijkstra.hpp
+/Users/huyanh/Documents/ics 46/program5/dijkstra.hpp
+
+/Users/huyanh/Documents/ics 46/program5/dijkstra.hpp
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+limits
+-
+array_queue.hpp
+/Users/huyanh/Documents/ics 46/program5/array_queue.hpp
+array_stack.hpp
+/Users/huyanh/Documents/ics 46/program5/array_stack.hpp
+heap_priority_queue.hpp
+/Users/huyanh/Documents/ics 46/program5/heap_priority_queue.hpp
+hash_graph.hpp
+/Users/huyanh/Documents/ics 46/program5/hash_graph.hpp
+
+/Users/huyanh/Documents/ics 46/program5/driver_graph.cpp
+
+/Users/huyanh/Documents/ics 46/program5/hash_graph.hpp
+string
+-
+iostream
+-
+fstream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/program5/ics_exceptions.hpp
+pair.hpp
+/Users/huyanh/Documents/ics 46/program5/pair.hpp
+heap_priority_queue.hpp
+/Users/huyanh/Documents/ics 46/program5/heap_priority_queue.hpp
+hash_set.hpp
+/Users/huyanh/Documents/ics 46/program5/hash_set.hpp
+hash_map.hpp
+/Users/huyanh/Documents/ics 46/program5/hash_map.hpp
+
+/Users/huyanh/Documents/ics 46/program5/hash_map.hpp
+string
+-
+iostream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/program5/ics_exceptions.hpp
+pair.hpp
+/Users/huyanh/Documents/ics 46/program5/pair.hpp
+
+/Users/huyanh/Documents/ics 46/program5/hash_set.hpp
+string
+-
+iostream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/program5/ics_exceptions.hpp
+pair.hpp
+/Users/huyanh/Documents/ics 46/program5/pair.hpp
+
+/Users/huyanh/Documents/ics 46/program5/heap_priority_queue.hpp
+string
+-
+iostream
+-
+sstream
+-
+initializer_list
+-
+ics_exceptions.hpp
+/Users/huyanh/Documents/ics 46/program5/ics_exceptions.hpp
+utility
+-
+array_stack.hpp
+/Users/huyanh/Documents/ics 46/program5/array_stack.hpp
+
+/Users/huyanh/Documents/ics 46/program5/test_graph.cpp
+
