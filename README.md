@@ -5,15 +5,15 @@
 This repository contains implementations of hash maps, heaps, sorts, priority queues, tries, and other various data structures and algorithms.
 I implemented these for my Data Structures and Algorithms class at UCI. It is broken up into 5 programs, by folders.
 
-1. Program 1: Programming using the ICS-46 Template Library -- Stack, Queue, Priority Queue, Set, and Map 
+1. `program1`: Programming using the ICS-46 Template Library -- Stack, Queue, Priority Queue, Set, and Map 
 
-2. Program 2: Implementing Queue/Priority Queue/Set with Linked Lists 
+2. `program2`: Implementing Queue/Priority Queue/Set with Linked Lists 
 
-3. Program 3: Implementing Priority Queues and Maps with Binary Trees 
+3. `program3`: Implementing Priority Queues and Maps with Binary Trees 
 
-4. Program 4: Implementing Maps and Sets via Hash Tables 
+4. `program4`: Implementing Maps and Sets via Hash Tables 
 
-5. Program 5: Implementing Graphs and Dijkstra's Algorithm 
+5. `program5`: Implementing Graphs and Dijkstra's Algorithm 
 
 ## What makes you proud of this code?
 
